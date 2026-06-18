@@ -1,0 +1,13 @@
+name: proga2
+title:
+username: verona2380
+account: verona2380
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17473113
+bundleId: 12088683
+url: https://verona2380.shinyapps.io/proga2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 1.R
