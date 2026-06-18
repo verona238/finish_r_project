@@ -5,6 +5,8 @@ account: verona2380
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 17473041
-bundleId: 12088626
+bundleId: 12146295
 url: https://verona2380.shinyapps.io/proga/
 version: 1
+asMultiple: FALSE
+asStatic: FALSE
